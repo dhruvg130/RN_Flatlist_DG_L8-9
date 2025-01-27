@@ -12,7 +12,7 @@ export default function Index() {
   return (
     <View style={defaultStyles.container}>
       <View style={defaultStyles.titleContainer}>
-        <Text style={defaultStyles.title}>Insert Title Here</Text>
+        <Text style={defaultStyles.title}>poop</Text>
       </View>
       <View style={[defaultStyles.textContainer, { flex: 1 }]}>
         <View style={styles.flatlist}>
